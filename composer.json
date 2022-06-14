@@ -1,5 +1,5 @@
 {
-  "name": "dingmuqi/flysystem-aliyun-oss-copy",
+  "name": "dingmuqi/flysystem-aliyun-oss-copy-copy",
   "type": "yii2-extension",
   "description": "AliYun OSS adapter for flysystem. aliyuncs/oss-sdk-php ~2.3",
   "keywords": [
@@ -7,7 +7,7 @@
     "aliyun-oss",
     "flysystem"
   ],
-  "homepage": "https://github.com/dingmuqi/flysystem-aliyun-oss",
+  "homepage": "https://github.com/dingmuqi/flysystem-aliyun-oss-copy",
   "license": "MIT",
   "authors": [
     {
@@ -20,7 +20,7 @@
   "support": {
     "email": "8764673@qq.com",
     "wiki": "https://github.com/dingmuqi",
-    "source": "https://github.com/dingmuqi/flysystem-aliyun-oss"
+    "source": "https://github.com/dingmuqi/flysystem-aliyun-oss-copy"
   },
   "minimum-stability": "stable",
   "require": {
